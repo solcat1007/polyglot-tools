@@ -1,0 +1,3 @@
+/workspace/newrepos/polyglot-tools/cpp/build/CMakeFiles/tool.dir
+/workspace/newrepos/polyglot-tools/cpp/build/CMakeFiles/edit_cache.dir
+/workspace/newrepos/polyglot-tools/cpp/build/CMakeFiles/rebuild_cache.dir
