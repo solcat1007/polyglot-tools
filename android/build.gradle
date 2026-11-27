@@ -1,0 +1,8 @@
+// 顶层构建脚本：Android Gradle Plugin 版本在这里统一声明
+plugins {
+    id 'com.android.application' version '8.7.3' apply false
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
